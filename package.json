@@ -1,0 +1,13 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "As a software developer still in the early stages of my journey, I want to make sure I have a solid development environment set up before I start building bigger projects. This program is the first step — getting everything installed, connected, and working so that I am ready for the modules ahead.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
