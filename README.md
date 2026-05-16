@@ -6,7 +6,7 @@ As a software developer still in the early stages of my journey, I want to make 
 
 This is a simple Hello World program written in TypeScript. It prints a greeting to the terminal and introduces who I am and what I am learning this semester. I chose TypeScript because it is the language I will be using for my first module, and I wanted to get familiar with how to compile and run it before diving into the real project.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=Wwigsly6UzE)
 
 ## Development Environment
 
