@@ -17,10 +17,10 @@ This is a simple Hello World program written in TypeScript. It prints a greeting
 
 ## Useful Websites
 
-* [TypeScript Official Site](https://www.typescriptlang.org/)
-* [Node.js Download](https://nodejs.org/)
-* [How to run TypeScript with ts-node](https://typestrong.org/ts-node/)
-* [Visual Studio Code](https://code.visualstudio.com/)
+- [TypeScript Official Site](https://www.typescriptlang.org/)
+- [Node.js Download](https://nodejs.org/)
+- [How to run TypeScript with ts-node](https://typestrong.org/ts-node/)
+- [Visual Studio Code](https://code.visualstudio.com/)
 
 ## How to Run
 
